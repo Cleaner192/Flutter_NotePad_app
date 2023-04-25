@@ -9,6 +9,7 @@
 Удаление - пользователь может удалять заметку нажав на соответствующую иконку
 Авторизация -  пользователь может войти в приложение используя почту и пароль, использованные при регистрации
 Регистрация – пользователь может зарегистрироваться в приложений
+
 ![Screenshot_9](https://user-images.githubusercontent.com/117023024/234326104-15fd58f2-baf9-410a-a1cb-a2119a12ad7f.png)
 ![Screenshot_8](https://user-images.githubusercontent.com/117023024/234326115-2d8f3514-94d6-44ed-812f-6f825dcc433e.png)
 ![Screenshot_2 1](https://user-images.githubusercontent.com/117023024/234326146-3ef967ce-332b-4f30-ac80-992a98f9df91.png)
